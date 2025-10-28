@@ -7,8 +7,8 @@ tempo:
       s3:
         bucket: traces
         endpoint: es-mad-1.linodeobjects.com
-        access_key: $ACCESS_KEY
-        secret_key: $SECRET_KEY
+        access_key: "8MRABUQK0PFCAS9K404C"
+        secret_key: "dWuj16rizQ9nmXul52bkKHFlxir7ZoWVN1aFsEmp"
         insecure: true
   
   receivers:
